@@ -228,10 +228,7 @@
 }    
 .single-icon p {
     font-size: 14px;
-}    
-.contact-area .contact-form {
-    margin-left: 0px;
-} 
+}
 .sign-icon ul li a {
     font-size: 14px;
     padding: 0px 10px;
@@ -601,10 +598,7 @@
 .single-icon {
     display: block;
     align-items: inherit;
-}    
-.contact-area .contact-form {
-    margin-left: 20px;
-}    
+}  
 .contact-icon {
     padding: 30px 15px;
 }     
@@ -1036,7 +1030,6 @@ blockquote::before {
     width: 60px;
 }    
 .contact-area .contact-form {
-    margin-left: 0px;
     margin-top: 40px;
 }    
 .bg-color-xs{

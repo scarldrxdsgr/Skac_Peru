@@ -4182,10 +4182,6 @@ span.email-notes {
   transition: 0.4s;
 }
 
-.contact-area .contact-form {
-  margin-left: 20px;
-}
-
 .contact-area .contact-form input[type="text"],
 .contact-form input[type="email"] {
   border: 1px solid #d9d9d9;
