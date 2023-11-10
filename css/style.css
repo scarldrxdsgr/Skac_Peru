@@ -1331,12 +1331,10 @@ div#preloader {
 }
 
 .awesome-img img {
-  transform: scale(1.1);
   transition: 0.4s;
 }
 
 .single-awesome-project:hover .awesome-img img {
-  transform: scale(1);
   transition: 0.4s;
 }
 
