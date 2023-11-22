@@ -289,7 +289,6 @@ label {
   color: #18233A;
   font-size: 46px;
   line-height: 54px;
-  text-transform: capitalize;
 }
 
 .white-headline h2 {
@@ -963,7 +962,6 @@ div#preloader {
 .left-headline h2 {
   font-size: 42px;
   line-height: 52px;
-  text-transform: capitalize;
 }
 
 .ab-image {
@@ -1146,7 +1144,6 @@ div#preloader {
   font-size: 22px;
   margin-bottom: 0;
   padding: 0 0 15px;
-  text-transform: capitalize;
   font-weight: 500;
 }
 
@@ -2820,7 +2817,6 @@ div#preloader {
 .team-content h4 {
   font-size: 24px;
   margin: 10px 0px;
-  text-transform: capitalize;
   font-weight: 600;
 }
 
