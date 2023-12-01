@@ -1020,7 +1020,7 @@ blockquote::before {
     margin-bottom: 30px;
 }    
 .single-icon {
-    display: inherit;
+    display: flex;
 }    
 .single-icon i {
     font-size: 24px;

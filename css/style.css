@@ -1145,7 +1145,6 @@ div#preloader {
   font-size: 22px;
   margin-bottom: 0;
   padding: 0 0 15px;
-  text-transform: capitalize;
   font-weight: 500;
 }
 
@@ -1909,7 +1908,6 @@ div#preloader {
 .footer-head h4 {
   font-size: 22px;
   margin-bottom: 20px;
-  text-transform: capitalize;
   font-weight: 700;
   color: var(--tg-theme-secondary);
 }
