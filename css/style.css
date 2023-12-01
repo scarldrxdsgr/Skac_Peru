@@ -289,7 +289,6 @@ label {
   color: #18233A;
   font-size: 46px;
   line-height: 54px;
-  text-transform: capitalize;
 }
 
 .white-headline h2 {
@@ -2820,7 +2819,6 @@ div#preloader {
 .team-content h4 {
   font-size: 24px;
   margin: 10px 0px;
-  text-transform: capitalize;
   font-weight: 600;
 }
 
